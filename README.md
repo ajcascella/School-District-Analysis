@@ -1,4 +1,8 @@
+## Background
+
 In this project I analyzed district-wide standardized test results including every student's math and reading scores, as well as various information on the schools they attend. I aggregated the data to showcase obvious trends in school performance.
+
+## Step by Step
 
 The final report includes the following:
 
